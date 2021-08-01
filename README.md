@@ -1,4 +1,4 @@
-# MyAutomation-NHSBSA
+# Nagarjuna-NHSBSA
 
 # NHS Advice using Selenium, BDD Framework, Java and Maven
 
